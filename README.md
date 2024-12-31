@@ -1,2 +1,2 @@
 # PySnow
-Snow on your desktop!
+Snow on your desktop powered by PyQt5!
